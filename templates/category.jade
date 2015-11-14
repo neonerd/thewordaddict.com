@@ -1,0 +1,27 @@
+extends ./layout.jade
+
+block body
+
+	div.container
+
+		div.nav
+			include ./menu.jade
+
+		each issue in issues
+
+			div(class="heading issueBackground issue-" + issue.issueNumber)
+				h1= "Issue " + issue.issueNumber + ": " + issue.issueTitle
+
+			div.content.spaceless
+
+				each piece in issue.pieces
+
+					div.piece
+						strong
+							a(href="/issues/" + issue.issueNumber + "/" + piece.slug + ".html")= piece.title
+						br
+						= piece.author
+
+		br
+		br
+		br

@@ -1,0 +1,16 @@
+extends ./layout.jade
+
+block body
+
+	div.container
+
+		div.nav
+			include ./menu.jade
+
+		div(class="issueBackground heading issue-" + wordaddict.issueNumber)
+			h1= piece.title
+			h3
+				| by&nbsp;
+				em= piece.author
+
+		div.content!= piece.html

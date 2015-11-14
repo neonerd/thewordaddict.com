@@ -1,0 +1,16 @@
+extends ./layout.jade
+
+block body
+
+	div.title.inverse
+
+		h1= wordaddict.issueTitle
+
+	div.nav.inverse.ontitle
+		include ./menu.jade
+
+	div.container
+
+		div.editorial
+
+			include ../static/editorial.html

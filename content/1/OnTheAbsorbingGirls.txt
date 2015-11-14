@@ -1,6 +1,8 @@
-title: On The Absorbing Girls
-author: Jaromir Lelek
-type: essay
+{
+    "title" : "On The Absorbing Girls",
+    "author": "Jaromir Lelek",
+    "type": "essay"
+}
 ===
 
 Some may call them attention junkies, others may dub them as those self-centred verbose hoes, but no one can get enough of them. Absorbing girls—an elite class of our tender-hearted gender that, my gorgeous reader, bears some of the most fascinating traits found among the various kinds of charismatic leaders.

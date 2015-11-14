@@ -1,0 +1,215 @@
+{
+
+"title" : "Disconnect",
+
+"author" : "Cassey Carr",
+
+"type" : "prose"
+
+}
+
+===
+It was the first time I had ever seen a man.  Initially, I thought his eyes were always drawn low along my bustline, but watching their grey stare amidst our interview, I realized they were looking elsewhere: there inside himself.  Timid.  He was a man deep in thought.  Unresponsive.  The room was soundproofed.  Did you hear that?  He asked.  Apparently, he had a heightened sense of perception.  Yet, he would not respond to my questions.
+
+Central said that I would have difficulty communicating with him.  They had assigned me to make contact.  He was from the outside, captured while trying to hack into Central’s main system.  They told me to be careful, but they needed a human ‘touch’ and for that matter, Central could not process him.  Was I any more qualified?  I had never seen a man before.  
+
+“You have perspired nearly 1 liter in the last hour, yet the temperature is only 18 degrees centigrade.  This must mean you are very nervous.  Or that you are beginning to ovulate.”
+
+How did he know this?  Of course, this chamber is equipped with Veribot specifications, meaning that the lights turn a violent red when the interviewee is lying.  It is synchronized specifically to his voice tonality, which was extracted upon capture.  The lights remain blue.  On top of this, I can confirm a reading of the room temperature and humidity with a touch of my temple.  I am sweating a lot.  True. I was one of the few to be bred with ovaries, my genes were carefully selected.  When will he figure out that I’ve never seen a man before?  I laughed to myself: men!
+
+“What were you doing with the mainframe?” I readdressed the list of information Central wanted me to obtain.
+
+“Why are you nervous?”  
+
+His eyes locked onto my face for one stark moment.  I batted my eyes.  Normally, I don’t handle interviews.  My seniors were busy with other duties.  I was the only one available and Central explained that I was capable of extracting the information needed.  I was trained and qualified, having practiced with multiple simulated interviews before.  Yet, this specimen before me eluded everything I had learned.
+
+“You have never seen my kind before?”
+
+Yes. The interviewee must not take control. But there was something more.  I was intrigued with this man. His emotional display… unpredictable, no matter what tool at my disposal.  
+
+He became silent again.  As if he were meditating on something.  He was calculating.  These autists were bred on the outside specifically for such calculations.  They undergo painful rituals which in the process binds the brain to some externalized, organic information system we have yet to observe, and thereby giving a portion of their neurons the capacity to cybersplice.  He has the potential to hotwire computer circuits using his mind, which is when Central apprehended him.  We only know so much of their kind.  They live like wild hermits in the desert, the barren wastelands that one day, we will terraform.  For now, they refuse to integrate.  I knew nothing more than that before this day.
+
+I could not leave the room without obtaining that crucial piece of information.
+
+…
+
+I’ve never lost my Alpha before.  How is it possible that they got him and not me?  We just arrived at the infiltration site and couldn’t have been on objective for more than 3 minutes.  How is it possible?  Did they know we were coming?  Can Central even predict our infils now?  I can’t go back without him.  They don’t let Bravos back alone.
+
+How in the hell was I going to get inside after they took him?  I still have some cards up my sleeve.  Like every Bravo, my head was grafted with Alpha’s brain tissue when I was born, meaning that I could also connect without detection for a brief moment.  We call it grappling, when we come up broadside of a line and cybersplice our way into the network.  Though, we can’t keep a direct current open otherwise we’d compromise our position. Instead, when we grapple we’re hijacking a random line and dropping chemtrons in every direction possible.  Once they find a match, first command line is to launch that bit through the closest transmitter over 30m tall.  Anybody can reap.
+
+I pulled out my grapple kit alongside an exposed fiber, stripped the surface clean.  My headset was cold full of sweat from the last splice. I was going to have to use a 40µm for this one.  These old fibers are all we have.  Sure it’s small band, you can feel the graft shoot for a 1000m at the speed of light before it diffracts.  Makes me want to puke.  Each pulse alternates in voltage, not as traceable.  We used to hack in by air, but Central’s drones prevent it now.  Chief used to say “if a tactic works this week, won’t next week.”  I primed my needle, making sure the catheter was hooked up to the converter before plugging into my headset, otherwise you get that nasty jolt from feedback.  We trained most of our adult lives on this equipment, it was muscle memory by now.  Though in field, I was used to providing support while my Alpha did this.  Now I was alone.  No cover.
+
+I held open the fibers running east-west. I knew full well which direction was home and the other Central.  At any damn minute of my life I can point home.  That’s what Bravos do best. Also, never shit where you eat: we never spliced closer than 50 clicks to home.  I held my needle in my right hand, the open fibers between my left thumb and index.  No gloves. I was sweating and shaking.  I’d never been through this alone before.  I felt the sun on my neck.  If I screwed it up, I could end up lying here in the dust in shakes, easy prey for scrapers.  Good thing sweat has great conductivity.  I lowered my gaze, pointing the needle east upstream.  I had to concentrate to get that catheter within the diameter of the fiber.  I lowered down to the 45 degree angle and began the splice.  The needle slipped off to the side. Damn. Reentry.
+
+I’m in.  I slowly ease the catheter down in.  I can feel the pulse under my gloved fingers. We trained our nerves for this kind of sensitivity.  I clamp the grapple into the splicehold, no letting go for the next 170 seconds. If you stick to the line more than 3, you risk it.. I’ve seen it happen.  I turn the knob on the transistor, say a prayer, and prep the interfiber for 40 attempts at random interval.  Counting down….  5… 4…. Last fucking breath...2….1….
+
+....
+
+“What were you doing with the mainframe?”
+
+“Defragging.” He smirked.  “Your system’s all rotten. Do you want to know what I found?”
+
+“I assure you, there has been no need for defragmentation for 65 years.”
+
+“Is that how long it’s been?” After asking this, he looked up to the right.  Was this a deception cue, or was he calculating again?  “It has been much longer.”
+
+“How old are you then?”
+
+“9140 days in total...” Roughly 25 solar years.  An answer. He continued, “and I might guess that you are more than twice that.   You’ve drunk from aqua vitae.  But I know.  Do you know how old your predecessors are?”
+
+How could he!?  Once the autist starts he doesn’t stop.  It’s true though.  Aqua vitae was their term for anti-aging modulation.  It’s a gene modulator that allows users to reprogram the apoptosis of each individual cell block in the body.  Most of us modulate around 33 solar years and cycle every 4 years.  No one likes to roll into 40 years.  The Elders themselves, though, take advanced measures that we don’t know in my caste.  Each of them is around 200 years of age, but no one counts except Central.  Unless you’re them, it’s prohibited to age over 100 solar years.  Did he know the Elders’ ages?
+
+“No. That is not correct.” He smirked. Could he also read my mind? How do these primitives do what Central does?  25 solar years?  The tendons in his wrist streamed shadows as he flexed.  He wasn’t going anywhere, but still it was remarkable that he tried.  His eyes penetrated the interrog-cam with a glare not fit for humans.  The room dimmed, turning brown, and then lighting in red.  The autist was lying.
+
+“You are lying.”
+
+He smiled. “You’re an Imprinter.”
+
+The room remained dark red.  The frequency of his voice measured at a stable 120 Hz.  He didn’t fluctuate in tone, but he continued to look intently at the interrog-cam.  I looked at the interrog-cam… and it looked back - a shiny, hovering bulb, no bigger than a thumb on the wall. 
+
+“You will tell me your name.” I continued with protocol.
+
+….
+
+The splice.  160 seconds.
+
+I hate it. My mind rushed along the fiber in pulses.  The headache set in.  I contracted the neurons along with the pulsator, releasing tiny daemons loaded with hacks.  If enough of them concentrate on a central target, each running their tasks, the final daemon executes and launches the leak.  It was painful every time.  I imagined the same feeling of falling into orbit with a black hole, only linear.  As if being stretched like a noodle of protons and you arrive at a fork, before splitting into fractions.  All metaphorical, Alphas are disattached. I can’t help but imagine what my neurons are going through.  Sometimes I picked up a drop.  Alphas knew the code and when the splice was done they transposed it.  I knew bits and pieces.
+
+120 seconds left.  I take a sedative beforehand to volumize the hippocamp.  As the exfil approaches, a stimulant kicks in and blankets everything in dope.  At this point, it’s impossible for any counterhack to pick up memory.  I feel like I am swimming underwater, just breathing between the tide.  Neither above nor below the surface.  In essence, we run everything from the thalamus, the CPU of it all.  The fuse on the converter should blow before Central gets that far.
+
+89 seconds to go.  Rounding the final minute.  Four intervals to go.  Chemtrons found something.  The brain perks the dopamine.  The dope drops to adrenaline.  They are working faster to find a mark.  I handjammed the last sequences before hooking up.  They were synched to my Alpha’s identifier. Each Alpha had an identifying mark etched into his DNA chain, which we create during the Mysteries.  I know it too well, we both have the identical sigil chain.  Every Alpha and Bravo go through the Mysteries together, coupled for life after that.  If there’s one person in the world to track down my Alpha, it’s me.
+
+60 seconds and closing.
+
+....
+
+“One moment....” My metacom system was alerting me to an outside threat. Another hack. “Central seems to have located your friend.  He’s barking up the wrong tree.”
+
+The autist looked me in the face.  Autists were known for their lack of emotional attachment, and stone-faced grimace.  I don’t think he would have betrayed his affect if he wasn’t staring into me.  Was this hack his watchdog?  If so, they must not have caught on that Central’s managed to decrease its QRF response time.  This could be fatal.
+
+“We’re at threshold now, autist.  What is the keycode?” The autist stared me in the face. “WHAT’S THE KEYCODE!?  Look, you can either save your friend or lose him for good.  He’s about to get 7 millamps down his spine and there’s no letting go, even after the splice is up.  We’ll hold on to him until you give us his keycode.”
+
+If we weren’t sure about it being his watchdog by now, he would let him die.  Endgame, it’s the autist’s information I need.  Watchdogs carry very little usable information after scraping.  However, with his keycode… it’s got to be no more than a 16-bit… we’ll be able to access his working memory, and dump his basal gangliae.  Central doesn’t take watchdogs, either they’re disposed of or their memory’s cleared and let loose.  We’ve tried to monitor them with implanted devices, but they never return to wherever they came from.  They die alone in the desert.  This is the first autist we’ve captured here.
+
+“Will you tell me his keycode or not?” He blinked. “Threshold’s breached, charge building.  You have 20 seconds before first voltage.”
+
+The autist smiled.
+
+“Fine.”
+
+….
+
+A heatwave hit my face.  My eyes were closed. I was in midsplice, awoken by the blast.  The explosion was upstream.  Good. My body shook out of splice.  I had less than three seconds to disconnect or I risked the surge.  Muscle memory kicked in.  How could this be?  Just 2 minutes passed? I ripped the headset off, unplugged the amp, grounded it, then pulled the converter off.  The catheter was lost, I couldn’t get it out if I tried until the time was up.  My decoy EMP had worked.  The radiation would be here soon though, at least it bought me those three seconds.
+
+First time I put the new SOP in place.  Due to the speed with which Central tracked and reacted to our hacks, Lysergus had ordered all teams mandatory use of EMP traps.  These traps are clamped onto the fiber at least 500m upstream of the splice, noninvasive, undetected.  It’s hypersensitive, detects the slightest augmentation or direct current coming from the source direction, and crunches the line, imploding on an electromagnetic pulse charge.  It can send a jolt downstream, but cuts off any further power by jumbling the capacitor.  Just enough time to disconnect.
+
+I looked toward the blast. The area was covered in dust.  These were just irrigation lines, fiber optic cables laid down to communicate with the wind traps and run the irrigation.  Mostly neglected by Central after so many years.  My reader picked-up a signal from the antennae.  My splice had found something.  He was there.  They didn’t transfer him.
+
+I closed the grapple kit, collapsed the antennae, and threw everything in my pack.  I would wait for night.  For now, I had to get out of the area before the scrapers arrived.
+
+…
+
+Something wasn’t right.  Did they pick him up or not?  Come on Central, I need some more information.
+
+“I’m afraid your friend…”
+
+“He is dead!” The lights in the room turned red once more.  He was lying?
+
+“How did you know?”
+
+“We’re all dead.” Huh? “He will come soon.  He has my leak.  It’s too late now.”
+
+“What do you know? I will continue with protocol.”
+
+“You’re supposed to extract my genetic code. All 3235 mega-basepairs.”
+
+“You going to tell me your name?”  The autist was starting to cry.  This was unexpected, however I knew it was possible that these autists could switch emotional onsets at any moment.  I’d just never seen it before.  Absolutely unpredictable.
+
+A man crying? I let him cry, I felt pity for him.  I just watched him with my secret thoughts.  In our city, Central maintains a perfect balance of 33/67 male-to-female ratio.  Males are grown for only 25 years before they prepare for the nuptial flight (we women can live for centuries, replacing organs and altering certain genes).  It’s inefficient and not profitable to prolong the life of the males, when it is easier to grow them from the bottom-up.  The only thing men are good for is biodiversity.  They are all concentrated in the interior of the city, where they never leave.  Women from the interior, always a higher caste, may pass between.  Once a year the men are selected for the nuptial flight, and they are put on the skytram and sent across the world to different cities to mate.  Only women from the interior get to mate.  I was one of them.
+
+When I came of age, I was selected for the exterior.  I scored very well on the empathic battery, and it was possible that I would someday be considered for breeding, after I served my 20-year transfer here.  Until today, I had never seen an outsider before, let alone a man.  Everyone knows that Central knows everything, has the algorithms for every biosystem, and that no matter what you do in life, Central already knows.  We’re only human.  To stay on this earth, Central was necessary.  Until these outsiders!
+
+“Why are you crying?”
+
+“There is a lie behind that mask.” He indicated the interrog-cam.  The lights turned red.  “You are like me, but you are not.  Why do you not hate yourself? You know that they are all dead.”
+
+The lights stayed red.  We were going nowhere.  I wanted to keep him crying as long as possible.
+
+…
+
+Night had fallen.  I crawled out of my mole. Half-moon.
+
+Reminded me of our final assessment. Spending 21 days in the sand while those who’d passed through the Mysteries hunted you down.  Alpha started to cry when the tenth night came.  We dug our mole, but the trackers came too close.  I’d never seen Alpha crack before.  They don’t crack.  Every damn moment is an emotional plunge.  For them, cracking is the norm. You don’t know when they’ll get drawn into some dark corner of the brain and camp.  We all practice MBSR-4.1: mindfulness for stress.  But it doesn’t always work.  Emotions must pass and flow;  otherwise, Central has you.
+
+We’re like brothers.  Bravos are trained to be the guides.  Alphas code.  We made jokes in school about our roles.  We called ourselves Psychopomps (we guide the brains!).  The Alphas call themselves Mentats, just like in Herbert’s Dune.  Lysergus was the first.  He was some prodigy bred by Central and experimented on.  Central’s not perfect and he knows that best.  He escaped.
+
+For that, we fight the jihad.  Central’s system of algorithms and self-programming had run civilization into a problem: predeterminism.  The mainframe could predict every human outcome by that time.  And this was detrimental to human existence, which it was meant to protect.  So it went back into time, trying to manipulate genes, and it came across some findings that Central itself in its beginnings had experimented on the use of psychoactives with different neurodevelopmental disorders.  That is, Central was experimenting on auties and schizos centuries ago.  They were administered a high dosage of lysergic acid to help “cure” the inadequacy of brain connectivity.  Instead, autism became an evolutionary advantage with the rise of artificial intelligence.
+
+That’s where Central made the discovery.  That’s the evolutionary secret behind the Mysteries, where after passing assessment, both Alpha-Bravo pair undergo the ritual to rebind the graft.  We call it the Agony (Herbert). Both become interlocked in the Mysteries’ transformation.  From then on, only one or the other can predict the decisions of the other, but to the outside world, this relationship is unfathomable.  Which is why I’m confused how Central captured my Alpha this time.
+
+Cappadoccia One.  My home.  I couldn’t go back without my Alpha.  Lysergus made it law to prevent tracking agents from entering.  The hidden portal wouldn’t open without both Alpha and Bravo.  Because of the graft, either one would know whether the other had been compromised. Without the other, you just die in the desert, no water to the brain and your memory becomes unrecoverable.  We could not betray our polis.  He was right.  Lysergus’s social reforms have kept us alive for more than one generation outside of Central.  Until now.
+
+Central has a bigger problem on hand though.  My Alpha won’t be a part of it.  If his signal leak was correct, they’re going to use him.  Like an evolutionary experiment released into the wild only to return (centuries later).  If it’s true what Lysergus went through, they won’t let go of him very easily.
+
+I must get in.
+
+....
+
+I was not getting much information out of him.  He said his name was Lysergus.  The red light remained. He was looking in the desert for a program that would create the perfect paper clip. Of tungsten? The red light still.  My next instructions were to provide physical contact.  Was this to confuse him?  To humiliate him?  How was I to break the autist? I could not bring myself to doing this.  After the questioning, the exchange of information, we were to make the interviewee feel comfortable.  Then…
+
+“You dont have to do this.”
+
+What did he know?  He started to cry again.  There were two ways of getting information from him, either through consent, or invasive measures.  His genetic memory.  It was prohibited by Central for humans to do harm to one another, even if these outsiders threatened our existence.  After the questioning, I was to extract his genetic memory.  There was only one way to do that.
+
+“Four minutes remaining.”
+
+“What?” I looked him in the face.  The interrog-cam looked on in silence.  The lights were a steady red.
+
+“Do you think that I am lying?”
+
+“Yes.  But it doesn’t matter now.”
+
+“What if my words were full of nonsense?  Your Central will register my words as undefined.”  He smirked.  “You failed to seduce me in time.”
+
+He pointed to my unitard, which hung by the door.  “You should put that on.”
+
+“What?” 
+
+“You understand me.”
+
+“You don’t seem to understand me!”
+
+“No one understands anyone.  It’s all a game.  But you don’t have to play by the rules.”
+
+I ran the backside of my hand along his wrists.  He tightened up.  “In this room, you do.”
+
+“One minute.”
+
+“Why?”
+
+“No, I am counting.  You will see.”
+
+I was getting static and mixed messages from Central.  I hated myself right now.  I felt my skin rise in the cold air. Where was Central now? What was I doing to the autist?
+
+“For the last seven years, your nuptial flight never arrived.  We sabotaged the tracks, sapped your tungsten supply.  We are always extracting the vital stats of the polis.  Do you know how many of you there still are on the inside? This year, I was the one responsible for harvesting data.  But your scrapers got me.  It was preplanned.  There isn’t much left for Central here though, I scraped.  The epidemic is spread.  You’re Elders killed themselves.  There’s no algorithm for suicide.”
+
+At that moment, I saw a crack strut across the ceiling.  Explosion outside. The silent room was now shrouded in complete darkness.  EMP?  I reached for my unitard.  Only lumesticks would work here. I shook the tube and a dim blue light cast out.  The autist was gone.  Another explosion outside.  What was going on?  Central was not answering.  I looked around the room.  Where could the autist go?
+
+My body then flung across the room, an explosion exposed the sunlight.  My head pulsed.  I felt the warmth and the light.  The dry air poured in.  He’d gotten in.  At that moment, a figure looked into the room.
+
+“Alpha?” it was his watchdog. “Let’s go!”
+
+The naked autist was sitting crosslegged in meditation by me.  This whole time?
+
+“You failed to extract my genetic memory in time.  We need you to come with us.”  He put out his hand.
+
+We walked to the opening.  
+
+“You found her?” 
+
+“Yes, she was the only one left.”
+
+“What?  You were looking for me?”
+
+“Yes, we were.”  He looked at me.  “We need you just as much as you needed us.”
+

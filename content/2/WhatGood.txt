@@ -1,0 +1,22 @@
+{
+"title":"What Good Does a Fluid Identity Do me?",
+"author" : "Ian Mykiska",
+"type" : "poem"
+}
+===
+<p>
+__ last place, where I’ll stay forever.<br>
+__ last place where I’ll stay forever.<br>
+</p>
+<p style="float: right;">
+Home<br>
+home.<br>
+home…<br>
+Home.
+</p>
+<p>
+a train in a valley<br>
+a train in the valley<br>
+the train in a valley<br>
+the train in the valley
+</p>
