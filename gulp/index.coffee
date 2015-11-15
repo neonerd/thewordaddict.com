@@ -71,6 +71,7 @@ gulp.task 'render.issues', () ->
 					issues : issuesList
 					wordaddict : {
 						issueNumber : 3
+						categoryName : category
 					}
 				}
 			}))
