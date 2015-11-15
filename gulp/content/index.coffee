@@ -1,4 +1,5 @@
 # -- GLOBALS
+
 contentTypes = {
 	"essay" : {
 		format : "long"
@@ -64,10 +65,5 @@ content =
 			pieces.push content.parsePiece( path.join(contentPath, issueNumber, piecePath) )
 
 		return pieces
-
-	# get a list of all issues in descending order
-	getIssues : () ->
-
-
 
 module.exports = content
