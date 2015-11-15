@@ -102,19 +102,31 @@ gulp.task 'render.static', () ->
 	}))
 	.pipe(gulp.dest('./public/'))
 
+# MOVE THE STATIC CONTENT
+
+gulp.task 'move.static', () ->
+
+	gulp.src("./static/img/*.*")
+	.pipe(gulp.dest("./public/img/"))
+
+	gulp.src("./static/css/*.css")
+	.pipe(gulp.dest("./public/css/"))
+
+# COMPILE THE CSS
+
 gulp.task 'css', () ->
 	gulp.src('./styles/*.scss')
 	.pipe(sass().on('error', sass.logError))
 	.pipe(gulp.dest('./public/css'))
 
-
-
+# DEV WATCH FEATURE
 
 gulp.task 'watch', () ->
 	gulp.watch('./styles/*.scss', ['css'])
 
+# MAIN TASKS
 
-
-
-gulp.task 'build', ['css', 'render.issues', 'render.static']
+# builds the whole site into the /public folder
+gulp.task 'build', ['css', 'render.issues', 'render.static', 'move.static']
+# in default, acts as a development daemon
 gulp.task 'default', ['css', 'watch']
