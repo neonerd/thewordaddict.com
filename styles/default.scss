@@ -10,7 +10,12 @@ body {
 }
 
 // THEMING
-// 
+//
+
+.issueBackground.issue-4 {
+	background-color: #991818;
+	background-image: url('/img/title_4_cutout.jpg');
+}
 
 .issueBackground.issue-3 {
 	background-color: #991818;
@@ -26,6 +31,10 @@ body {
 	background-color: #9DD3DF;
 	background-image: url('/img/title_1_cutout.jpg');
 	background-size: cover;
+}
+
+.issueColor.issue-4 {
+color: #b76a5a;
 }
 
 .issueColor.issue-3 {

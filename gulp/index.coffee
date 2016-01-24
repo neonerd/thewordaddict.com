@@ -48,11 +48,12 @@ gulp.task 'render.issues', () ->
 		'essays' : {}
 	}
 	
-	issues = [1, 2, 3]
+	issues = [1, 2, 3, 4]
 	issueTitles = {
 		1 : 'Absorbing People'
 		2 : 'Tech Dystopias'
 		3 : 'Primitivism'
+		4 : 'High Culture Depravity'
 	}
 
 	for issue in issues
