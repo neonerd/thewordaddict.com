@@ -15,6 +15,10 @@ block body
 
 		div.content!= piece.html
 
+block meta_og
+	meta(property="og:title", content= piece.title + " | The Word Addict")
+	meta(property="og:description", content="Read " +  piece.title + ", a work by " + piece.author + ", published in The Word Addict - a planetary literary magazine, provincially based in Prague.")
+
 block title
 
 	title= piece.title + " | " + piece.author + " | The Word Addict" 
