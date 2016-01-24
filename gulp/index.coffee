@@ -159,6 +159,6 @@ gulp.task 'watch', () ->
 # MAIN TASKS
 
 # builds the whole site into the /public folder
-gulp.task 'build', ['css', 'render.issues', 'render.static', 'move.static']
+gulp.task 'build', ['css', 'render.issues', 'render.gallery', 'render.static', 'move.static']
 # in default, acts as a development daemon
 gulp.task 'default', ['css', 'watch']
