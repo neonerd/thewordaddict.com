@@ -343,6 +343,12 @@ body {
 	}
 }
 
+@media (max-width: 1200px) {
+	.gallery {
+		max-width: 600px;
+	}
+}
+
 @media (min-width: 1900px) {
 	.gallery {
 		margin-left: 160px;
