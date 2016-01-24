@@ -13,7 +13,7 @@ body {
 // 
 
 .issueBackground.issue-3 {
-	//background-color: #991818;
+	background-color: #991818;
 	background-image: url('/img/title_3.jpg');
 }
 
@@ -67,6 +67,45 @@ body {
 	top: 20px;
 	right: 160px;
 	position: fixed;
+}
+
+
+
+
+@media (max-width: 1400px) {
+	.nav {
+		right: 20px;
+	}
+}
+
+@media (min-width: 1900px) {
+	.gallery {
+		right: 160px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.galleryNav {
+		right: 20px;
+	}
+}
+
+@media (max-width: 768px) {
+	.nav {
+		display: none;
+	}
+	.ontitle {
+		display: block;
+	}
+	.galleryNav {
+		position: relative;
+		display: block;
+		right: 0px;
+		margin: 0px 10px;
+	}
+	.title h1 {
+		display: none;
+	}
 }
 
 .nav.ontitle {
@@ -126,6 +165,14 @@ body {
 	padding-bottom: 80px;
 }
 
+@media (max-width: 768px) {
+	.editorial, .content {
+		width: auto;
+		display: block;
+		margin: 20px 10px;
+	}
+}
+
 .content.spaceless {
 	padding-bottom: 0px;
 	padding-top: 20px;
@@ -152,6 +199,11 @@ body {
 	content: '— ';
 }
 
+.content hr {
+	margin-bottom: 0px;
+	margin-top: 1.5rem;
+}
+
 .content .piece {
 	margin-left: 150px;
 	margin-top: 20px;
@@ -162,6 +214,25 @@ body {
 .content .piece a {
 	text-decoration: none;
 	color: #000;
+}
+
+
+@media (max-width: 768px) {
+
+	.content .piece {
+		text-align: center;
+	}
+
+	.content .piece {
+		margin-left: 10px;
+		margin-top: 10px;
+	}
+
+	.content.spaceless {
+		padding-bottom: 0px !important;
+		padding-top: 0px;
+	}
+
 }
 
 .heading {
@@ -196,7 +267,82 @@ body {
 	color: #fff;
 }
 
+
+@media (max-width: 768px) {
+	.heading {
+		width: 100%;
+		margin: 0;
+		padding: 0px 20px;
+		margin-top: 10px;
+	}
+
+	.heading h1 {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+	.heading {
+		width: 440px;
+		padding-left: 40px;
+	}
+
+	.heading h1 {
+		font-size: 30px;
+	}
+	.content {
+		margin-left: 40px;
+		width: 500px;
+	}
+	.content .piece {
+		margin-left: 0px;
+	}
+}
+
+
 .content .stars {
 	text-align: center;
 	margin-top: 20px;
+}
+
+// GALLERY
+
+.gallery {
+	display: none;
+	opacity: 0;
+	margin-top: 40px;
+	max-width: 1200px;
+	margin-left: 20px;
+	padding-bottom: 80px;
+}
+
+@media (max-width: 768px) {
+	.gallery {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+
+@media (max-width: 1400px) {
+	.gallery {
+		max-width: 800px;
+	}
+}
+
+@media (max-width: 1600px) {
+	.gallery {
+		max-width: 1000px;
+	}
+}
+
+@media (min-width: 1900px) {
+	.gallery {
+		margin-left: 160px;
+	}
+}
+
+.gallery img {
+	display: block;
+	width: 100%;
+	margin: 10px 0px;
 }

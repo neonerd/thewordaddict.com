@@ -1,0 +1,41 @@
+extends ./layout.jade
+
+block body
+
+	div.container
+
+		div.nav.galleryNav
+			h2
+				| The&nbsp;
+				span(class="issueColor issue-"+wordaddict.issueNumber) Word
+				| &nbsp;Addict Gallery
+
+			menu
+				li.offset
+					a(href="/") &lt;&lt; back to the title
+
+				each gallery in galleries
+					li
+						a(href="javascript: switchGallery(" + gallery.id + ");")= gallery.name
+
+		each gallery in galleries
+
+			div(id="gallery-" + gallery.id, class="gallery")
+
+				each photo in photos[gallery.id]
+
+					a(href=photo, target="_blank")
+						img(src=photo, alt="gallery photo")
+
+
+				
+block title
+
+	title Gallery | The Word Addict
+
+block scripts
+
+	script(src="/js/zepto.min.js")
+	script(src="/js/gallery.js")
+	script.
+		initGallery(3);

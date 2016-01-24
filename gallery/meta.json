@@ -1,0 +1,22 @@
+{
+	"galleries" : [
+
+			{
+				"id" : "3",
+				"name" : "Primitivism",
+				"count" : 14
+			},
+			{
+				"id" : "2",
+				"name" : "Tech Dystopias",
+				"count" : 2
+			},
+			{
+				"id" : "1",
+				"name" : "Absorbing Girls",
+				"count" : 9
+			}
+
+	]
+
+}

@@ -5,6 +5,34 @@ jade = require "gulp-jade"
 rename = require "gulp-rename"
 
 content = require "./content"
+gallery = require "./gallery"
+
+# RENDER GALLERY - LIST OF GALLERIES
+gulp.task 'render.gallery', () ->
+
+	galleries = gallery.getMeta(__dirname + "/../gallery")
+	photos = {}
+
+	for gallery in galleries
+		photos[gallery.id] = []
+		i = 1
+		while(i<=gallery.count)
+			photos[gallery.id].push '/gallery/' + gallery.id + '/' + i + '.jpg'
+			i++
+
+	gulp.src('./templates/gallery.jade')
+	.pipe(rename("gallery.html"))
+	.pipe(jade({
+		pretty : true
+		locals : {
+			wordaddict : {
+				issueNumber : 3
+			}
+			galleries : galleries
+			photos : photos
+		}
+	}))
+	.pipe(gulp.dest('./public/'))
 
 # RENDER ISSUES - LIST OF ARTICLES AND ARTICLES THEMSELVES
 gulp.task 'render.issues', () ->
@@ -104,7 +132,6 @@ gulp.task 'render.static', () ->
 	.pipe(gulp.dest('./public/'))
 
 # MOVE THE STATIC CONTENT
-
 gulp.task 'move.static', () ->
 
 	gulp.src("./static/img/*.*")
@@ -113,15 +140,19 @@ gulp.task 'move.static', () ->
 	gulp.src("./static/css/*.css")
 	.pipe(gulp.dest("./public/css/"))
 
-# COMPILE THE CSS
+	gulp.src("./static/js/*.js")
+	.pipe(gulp.dest("./public/js/"))
 
+	gulp.src('./gallery/**/*.jpg')
+	.pipe(gulp.dest('./public/gallery'))
+
+# COMPILE THE CSS
 gulp.task 'css', () ->
 	gulp.src('./styles/*.scss')
 	.pipe(sass().on('error', sass.logError))
 	.pipe(gulp.dest('./public/css'))
 
 # DEV WATCH FEATURE
-
 gulp.task 'watch', () ->
 	gulp.watch('./styles/*.scss', ['css'])
 
