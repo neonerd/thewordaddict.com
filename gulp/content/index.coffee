@@ -62,7 +62,8 @@ content =
 
 		for piecePath in piecePaths
 
-			pieces.push content.parsePiece( path.join(contentPath, issueNumber, piecePath) )
+			if(piecePath[0] != '.')
+				pieces.push content.parsePiece( path.join(contentPath, issueNumber, piecePath) )
 
 		return pieces
 
