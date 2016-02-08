@@ -1,0 +1,15 @@
+{
+"title": "i don't wanna have it",
+"author": "Kinga Tóth",
+"type" : "poem"
+}
+===
+<p> 
+they dig the empty ground and die<br>    
+and they hog fat when they are hungry<br>   
+the skin smells like the skinned ones<br>    
+i don't wanna have the food i don't wanna have the soil<br>   
+i know how the pig felt like<br>   
+i don't wanna have its pain and the worries<br>    
+</p>
+    

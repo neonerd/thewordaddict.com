@@ -1,0 +1,14 @@
+{
+"title": "54",
+"author": "Kinga Tóth",
+"type" : "poem"
+}
+===
+<p> 
+curious bugs<br>                                              
+march upwards<br>    
+rain starts<br>    
+chases them down<br>    
+tumbler glints nicely<br>    
+sun spouts sparks<br>    
+</p>

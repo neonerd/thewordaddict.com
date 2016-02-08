@@ -1,0 +1,15 @@
+{
+"title": "48",
+"author": "Kinga Tóth",
+"type" : "poem"
+}
+===
+<p> 
+red the fireman burns<br>    
+orange the tiger<br>    
+yellow the sun reaches the skin<br>    
+green the christmas tree in winter<br>    
+alone and before shrivelling<br>    
+incomplete and purple<br>    
+the humans<br>    
+</p>

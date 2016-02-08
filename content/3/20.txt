@@ -1,0 +1,13 @@
+{
+"title": "20",
+"author": "Kinga Tóth",
+"type" : "poem"
+}
+===
+<p> 
+small fish in the lake<br>                                                 
+mom fries them in oil<br>    
+dad ate them all<br>    
+now he is the man<br>    
+</p>
+

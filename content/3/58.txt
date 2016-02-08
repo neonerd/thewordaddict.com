@@ -1,0 +1,22 @@
+{
+"title": "58",
+"author": "Kinga Tóth",
+"type" : "poem"
+}
+===
+<p> 
+mother calls<br>    
+only four<br>    
+come back<br>    
+another day<br>    
+another call<br>    
+just three just two<br>    
+come home 1<br>    
+and that’s<br>    
+where they gather<br>    
+where they escape<br>    
+new ones are laid<br>
+</p>
+    
+ 
+

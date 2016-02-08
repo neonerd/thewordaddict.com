@@ -1,0 +1,15 @@
+{
+"title": "19",
+"author": "Kinga Tóth",
+"type" : "poem"
+}
+===
+<p> 
+brush your teeth<br>                                              
+they rot like uncle’s<br>    
+the crocodile clock rings<br>    
+the holder vibrates<br>    
+</p>
+
+  
+
