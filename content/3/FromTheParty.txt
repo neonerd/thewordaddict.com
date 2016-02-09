@@ -1,6 +1,6 @@
 {
 "title": "FROM 'THE PARTY'",
-"author": "Kinga Tóth & Gergely Normal",
+"author": "Kinga Tóth",
 "type" : "poem"
 }
 ===
