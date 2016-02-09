@@ -5,7 +5,7 @@
 }
 ===
 
-<h3>i don't wanna have it</h3>
+<h3 style="font-size: 22px;">i don't wanna have it</h3>
 <p> 
 they dig the empty ground and die<br>    
 and they hog fat when they are hungry<br>   
@@ -15,14 +15,14 @@ i know how the pig felt like<br>
 i don't wanna have its pain and the worries<br>    
 </p>
 
-<h3>in a fish</h3>
+<h3 style="font-size: 22px;">in a fish</h3>
 <p> 
 i will die in a fish then people get me<br>    
 when we all land we feed the fish with alga<br>    
 then they digest me in a fish then we all born in a fish<br>    
 </p>
 
-<h3>jigsaw</h3>
+<h3 style="font-size: 22px;">jigsaw</h3>
 <p> 
 its mouth was made of jigsaw<br>    
 it made me see it did not have teeth<br>    
@@ -31,7 +31,7 @@ teeth it did not have teeth his mouth was made<br>
 of jigsaw<br>    
 </p>
 
-<h3>the neck of my duck</h3>
+<h3 style="font-size: 22px;">the neck of my duck</h3>
 <p> 
 we selected a female with dad<br>    
 and raised her with love<br>    
@@ -61,7 +61,7 @@ The neck of my dog was broken<br>
 the throat of the animals is cut off<br>   
 </p>
 
-<h3>THEY COME</h3>
+<h3 style="font-size: 22px;">THEY COME</h3>
 <p> 
 moles plut under the city<br>    
 they pluck the roots<br>    
@@ -94,7 +94,7 @@ head for the father<br>
 body for the family<br>   
 </p>
 
-<h3>untitled</h3>
+<h3 style="font-size: 22px;">untitled</h3>
 <p> 
 Through the gaps of the shutter we see the nearby ones<br>   
 and the outlaw time travellers<br>   
