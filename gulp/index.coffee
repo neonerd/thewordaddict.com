@@ -26,7 +26,7 @@ gulp.task 'render.gallery', () ->
 		pretty : true
 		locals : {
 			wordaddict : {
-				issueNumber : 3
+				issueNumber : 4
 			}
 			galleries : galleries
 			photos : photos
@@ -58,27 +58,33 @@ gulp.task 'render.issues', () ->
 
 	for issue in issues
 
-		pieces = content.processIssue( __dirname + "/../content", issue )
+		do (issue) ->
 
-		for piece in pieces
+			pieces = content.processIssue( __dirname + "/../content", issue )
 
-			categoryPieces[ categoryPages[piece.type] ][issue] = [] unless categoryPieces[ categoryPages[piece.type] ][issue]?
-			categoryPieces[ categoryPages[piece.type] ][issue].push piece
+			for piece in pieces
 
-			gulp.src("./templates/piece.jade")
-			.pipe(rename("#{ piece.slug }.html"))
-			.pipe(jade({
-				pretty : true
-				locals : {
-					wordaddict : {
-						issueNumber : issue
-					}
-					piece : piece
-				}
-			}))
-			.pipe(gulp.dest("./public/issues/#{ issue }/"))
+				do (piece) ->
 
-		for category, categoryIssues of categoryPieces
+					categoryPieces[ categoryPages[piece.type] ][issue] = [] unless categoryPieces[ categoryPages[piece.type] ][issue]?
+					categoryPieces[ categoryPages[piece.type] ][issue].push piece
+
+					gulp.src("./templates/piece.jade")
+					.pipe(rename("#{ piece.slug }.html"))
+					.pipe(jade({
+						pretty : true
+						locals : {
+							wordaddict : {
+								issueNumber : issue
+							}
+							piece : piece
+						}
+					}))
+					.pipe(gulp.dest("./public/issues/#{ issue }/"))
+
+	for category, categoryIssues of categoryPieces
+
+		do (category, categoryIssues) ->
 
 			# compose a list of issues
 			issuesList = []
@@ -90,6 +96,8 @@ gulp.task 'render.issues', () ->
 					issueTitle : issueTitles[issueNumber]
 					pieces : pieces
 				}
+
+			console.log(issuesList)
 				
 			# render
 			gulp.src('./templates/category.jade')
@@ -99,7 +107,7 @@ gulp.task 'render.issues', () ->
 				locals : {
 					issues : issuesList
 					wordaddict : {
-						issueNumber : 3
+						issueNumber : 4
 						categoryName : category
 					}
 				}
@@ -114,8 +122,8 @@ gulp.task 'render.static', () ->
 		pretty : true
 		locals : {
 			wordaddict : {
-				issueNumber : 3
-				issueTitle : "Primitivism"
+				issueNumber : 4
+				issueTitle : "High Culture Depravity"
 			}
 		}
 	}))
