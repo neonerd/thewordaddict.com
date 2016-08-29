@@ -21,13 +21,13 @@ slug = require "slug"
 
 # -- FUNCTIONS
 
-content = 
+content =
 
 	# parse one text
 	parsePiece : (piecePath) ->
 
 		pieceContent = fs.readFileSync(piecePath, 'utf-8').split("===", 2)
-		
+
 		# assing the text
 		pieceText = pieceContent[1]
 
@@ -37,6 +37,8 @@ content =
 		catch e
 			throw new Error("Could not parse meta information of piece '#{ piecePath }'!")
 
+		console.log(pieceMeta.title)
+
 		data = {
 			title : pieceMeta.title
 			author : pieceMeta.author
@@ -45,13 +47,15 @@ content =
 			slug : slug(pieceMeta.title)
 		}
 
+
+
 		if(contentTypes[data.type].format=="wysiwyg")
 			data.html = "#{ pieceText }"
 		else
 			data.html = marked(pieceText)
 
 		return data
-	
+
 	# process an issue based on its number
 	processIssue : (contentPath, issueNumber) ->
 
