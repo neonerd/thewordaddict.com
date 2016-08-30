@@ -1,6 +1,6 @@
 {
 "title" : "The Self is a Hell You Cannot Follow",
-"author" : "Rick Reuther",
+"author" : "Shaun Kennedy",
 "type" : "prose"
 }
 ===
